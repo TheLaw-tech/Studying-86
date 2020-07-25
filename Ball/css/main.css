@@ -1,0 +1,33 @@
+body {
+    margin: 0 auto;
+    background-image: url(../img/img-2.jpg);
+    background-size: cover;
+}
+
+.ball {
+    margin: auto;
+    height: 800px;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+}
+
+.future {
+    font-size: 24px;
+    position: relative;
+    bottom: 520px;
+    border: 3px solid snow;
+    left: 382px;
+    width: 20%;
+    color: snow;
+    text-align: center;
+}
+
+.ask {
+    font-size: 24px;
+    height: 150px;
+    margin-left: 375px;
+    width: 250px;
+    position: relative;
+    bottom: 75px;
+}
